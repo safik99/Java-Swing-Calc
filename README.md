@@ -10,4 +10,4 @@ I alsowanted to them this like some GayBoyMicroAdvanced from Tendo, so therefore
 ## Code
 This project was mainly to for leanring sperience to learn Swing and its FormBuilder. Fun times, eh? I'm Canadian. 
 
-<img src="assets/lol.png"/ height="50">
+<img src="assets/lol.png" height="50">
