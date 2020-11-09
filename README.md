@@ -4,6 +4,6 @@ This is a basic GUI Calculator Application. You can use the onscreen buttons or 
 
 <img src="assets/lol.PNG" height="300">
 
-### Example: Some basic addtion
+### Example: Some basic addition
 <img src="assets/addition1.PNG" height="300">
 <img src="assets/addition2.png" height="300">
